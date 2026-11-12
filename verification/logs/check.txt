@@ -1,0 +1,11 @@
+n=1: 1 distinct admissible images
+n=2: 2 distinct admissible images
+n=3: 5 distinct admissible images
+n=4: 14 distinct admissible images
+n=5: 42 distinct admissible images
+n=6: 132 distinct admissible images
+n=7: 429 distinct admissible images
+n=8: 1430 distinct admissible images
+n=9: 4862 distinct admissible images
+n=10: 16796 distinct admissible images
+PASS
