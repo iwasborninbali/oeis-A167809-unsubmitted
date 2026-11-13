@@ -1,7 +1,7 @@
 # OEIS A167809: Catalan lower bound (not yet submitted)
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted** (lab registry, 13 Nov 2026).
+**OEIS status: not submitted** (lab registry, 14 Nov 2026).
 
 - [A167809](https://oeis.org/A167809), a(n) >= Catalan(n) proved (Dyck-path injection): **candidate** (2026-11-13: repository built (core c5)). Certificate: complete.
 
